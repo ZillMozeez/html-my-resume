@@ -7,7 +7,7 @@
 </head>
 <body>
     <div>
-        <img src="./img/profilepicIII.jpg" alt="Profile photo" height="150">
+        <img src="./img/profile-pic.jpg" alt="Profile photo" height="200">
     </div>
 
     <div>
@@ -19,8 +19,8 @@
     <div>
         <h1>Education</h1>
         <ul>
-            <li>B.Engr. Computer Engineering, University of Uyo, Nigeria. </li>2012 - 2017
-            <li>B.Sc. Computer Science, National Open University of Nigeria, Nigeria.</li>2019 - 2024
+            <li>B.Engr. Computer Engineering, University of Uyo, Akwa Ibom, Nigeria. </li>2012 - 2017
+            <li>B.Sc. Computer Science, National Open University of Nigeria, Abuja, Nigeria.</li>2019 - 2024
         </ul>
     </div>
     <hr />
@@ -29,25 +29,25 @@
         <h1>Work Experience</h1>
         <ul>
             <h2>Waiter:</h2>
-            <li>Makon Cooks</li>
+            <li>Makon Cooks, Akwa Ibom</li>
             <li>2010 - 2018</li>
             <li><h3>Responsibilities:</h3> To ensure that customers are welcomed properly, accurate orders are taken and served as fast as possible. To ensure that tables, seats and the environs are always being kept neat and tidy.</li>
         </ul>
         <ul>
             <h2>Head of Housekeeping:</h2>
-            <li>Integrated Health Care</li>
+            <li>Integrated Health Care, Abuja</li>
             <li>2019 - 2022</li>
             <li><h3>Responsibilities:</h3> Using excel spreadsheet to schedule work days shifts for housekeepers, manage equipments and supplies, also to supervise the housekeepers on duty.</li>
         </ul>
         <ul>
             <h2>Graphic Designer</h2>
-            <li>Advent Computer Center</li>
+            <li>Advent Computer Center, Abuja</li>
             <li>2023</li>
             <li><h3>Responsibilities:</h3> To provide professional graphic design services for clients.</li>
         </ul>
         <ul>
             <h2>Office Manager</h2>
-            <li>Greenfidence Concept</li>
+            <li>Greenfidence Concept, Abuja</li>
             <li>2024</li>
             <li><h3>Responsibilities:</h3> Administrative management,  staff coordination, finance management and facility management.</li>
         </ul>
@@ -80,7 +80,7 @@
     <hr />
 
     <footer>
-        <p>Moses Ita &copy;2025. All rights reserved.</p>
+        <p>Moses Ita &copy; 2025. All rights reserved.</p>
     </footer>
 </body>
 </html>
