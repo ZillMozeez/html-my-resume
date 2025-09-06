@@ -50,6 +50,11 @@
             <li>Greenfidence Concept, Abuja</li>
             <li>2024</li>
             <li><h3>Responsibilities:</h3> Administrative management,  staff coordination, finance management and facility management.</li>
+            <h2>Kitchen Assistant</h2>
+            <li>Poineers Park</>
+            <li>Present</li>
+            <li><h3>Responsibilities:</h3> 
+            <li>
         </ul>
     </div>
     <hr />
