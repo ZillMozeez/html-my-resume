@@ -19,8 +19,7 @@
     <div>
         <h1>Education</h1>
         <ul>
-            <li>B.Engr. Computer Engineering, University of Uyo, Akwa Ibom, Nigeria. </li>2012 - 2017
-            <li>B.Sc. Computer Science, National Open University of Nigeria, Abuja, Nigeria.</li>2019 - 2024
+            <li>B.Sc. Computer Science, National Open University of Nigeria, Abuja, Nigeria.</li>In Progress
         </ul>
     </div>
     <hr />
