@@ -55,7 +55,7 @@
            <h2>Kitchen Assistant</h2>
             <li>Poineers Park</>
             <li>Present</li>
-            <li><h3>Responsibilities:</h3>
+            <li><h3>Responsibilities:</h3> Food preparation, maintaining strict hygiene standards and ensuring smooth kitchen operations. Handling stock, operating kitchen equipment                       safely and assisting with plating and order presentation during peak service hours.</li>
         </ul>
     </div>
     <hr />
